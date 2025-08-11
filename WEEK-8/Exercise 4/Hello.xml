@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cricket>
+    <Nation>India</Nation>
+    <Name>Virat Kohli</Name>
+    <Role>Batsman</Role>
+    <IPL>RCB</IPL>
+    <branch>This is new branch file</branch>
+</cricket>
